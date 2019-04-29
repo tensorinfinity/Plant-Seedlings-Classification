@@ -8,7 +8,7 @@
 
 # 目录
 
-[**Objective**](https://github.com/L1aoXingyu/a-PyTorch-Tutorial-to-Transfer-Learning#objective)
+[**Objective**](https://github.com/tensorinfinity/Plant-Seedlings-Classification#objective)
 
 [**Concepts**](https://github.com/tensorinfinity/Plant-Seedlings-Classification#concepts)
 
