@@ -1,6 +1,6 @@
-这是一个 [PyTorch](https://pytorch.org/) 的项目: a PyTorch Tutorial to Transfer Learning
+这是一个 [PyTorch](https://pytorch.org/) 的项目
 
-这是 [a series of pytorch projects](https://github.com/L1aoXingyu/a-series-of-pytorch-projects) 中的第一个项目，从这个项目中我们会学习到如何使用迁移学习完成这个很棒的图像分类项目。
+这是深度学习实践项目中的第一个项目，从这个项目中我们会学习到如何使用迁移学习完成这个很棒的图像分类项目。
 
 需要大家了解 PyTorch 的基本知识，同时要掌握卷积神经网络的知识。
 
@@ -13,7 +13,7 @@
 
 # 目录
 
-[**Objective**](https://github.com/L1aoXingyu/a-PyTorch-Tutorial-to-Transfer-Learning#objective)
+[**Objective**](https://github.com/tensorinfinity/Plant-Seedlings-Classification#objective)
 
 [**Concepts**](https://github.com/L1aoXingyu/a-PyTorch-Tutorial-to-Transfer-Learning#concepts)
 
