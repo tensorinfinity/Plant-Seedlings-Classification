@@ -15,11 +15,11 @@
 
 [**Objective**](https://github.com/tensorinfinity/Plant-Seedlings-Classification#objective)
 
-[**Concepts**](https://github.com/L1aoXingyu/a-PyTorch-Tutorial-to-Transfer-Learning#concepts)
+[**Concepts**](https://github.com/tensorinfinity/Plant-Seedlings-Classification#concepts)
 
-[**Overview**](https://github.com/L1aoXingyu/a-PyTorch-Tutorial-to-Transfer-Learning#overview)
+[**Overview**](https://github.com/tensorinfinity/Plant-Seedlings-Classification#overview)
 
-[**Implementation**](https://github.com/L1aoXingyu/a-PyTorch-Tutorial-to-Transfer-Learning#implementation)
+[**Implementation**](https://github.com/tensorinfinity/Plant-Seedlings-Classification#implementation)
 
 
 # Objective
@@ -68,7 +68,7 @@
 </div>
 
 # Overview
-在这个部分，我们展示一下项目整体的逻辑和训练过程，帮助大家熟悉整个项目结构，如果你很熟悉这个部分，你可以直接跳到[implementation](https://github.com/L1aoXingyu/a-PyTorch-Tutorial-to-Transfer-Learning#implementation)
+在这个部分，我们展示一下项目整体的逻辑和训练过程，帮助大家熟悉整个项目结构，如果你很熟悉这个部分，你可以直接跳到[implementation](https://github.com/tensorinfinity/Plant-Seedlings-Classification#implementation)
 
 1. **定义数据读取**。对于所有的任务，第一步都需要熟悉任务的数据是什么样的类型，以及任务如何来读取数据，同时还要确定数据有哪些预处理，所以我们的第一步操作是定义数据读入，数据读入代码在 `dataset.py` 中，数据预处理的代码在 `train.py` 中。
 2. **定义网络结构**。定义完数据相关的函数和类之后，我们需要定义适应于这个任务的模型，这是一个分类任务，所以可以使用常见的分类模型，比如 ResNet，InceptionNet 等等，选择好模型之后，需要根据任务修改最后的全连接层。
