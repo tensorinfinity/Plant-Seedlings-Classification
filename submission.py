@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
 @author:  SIGAI
-@website: www.tensorinfinity.com
+@website: www.tensorinfnity.com
 """
 
 import argparse
